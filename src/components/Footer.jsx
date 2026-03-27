@@ -22,8 +22,8 @@ const Footer = () => {
         </div>
         <div className="flex flex-col gap-4">
           <h4 className="text-[11px] uppercase tracking-widest text-gray-900 font-semibold mb-2">Contact</h4>
-          <a href="#" className="text-gray-500 no-underline text-sm hover:text-gray-900 transition-colors">📧 info@atelier.com</a>
-          <a href="#" className="text-gray-500 no-underline text-sm hover:text-gray-900 transition-colors">📞 +1 234 567 890</a>
+          <a href="#" className="text-gray-500 no-underline text-sm hover:text-gray-900 transition-colors">info@atelier.com</a>
+          <a href="#" className="text-gray-500 no-underline text-sm hover:text-gray-900 transition-colors">+1 234 567 890</a>
         </div>
       </div>
       <div className="text-center py-6 border-t border-beige-200">
